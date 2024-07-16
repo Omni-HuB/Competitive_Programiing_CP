@@ -1,0 +1,25 @@
+the codeforces problem is  :   : 
+
+
+
+
+
+examples inputs are ::
+case 1:
+
+
+
+
+outputs of the given inputs are ::
+case 1:
+
+
+
+hints : 
+
+can you help me solve this codeforce problem? 
+
+
+
+
+
